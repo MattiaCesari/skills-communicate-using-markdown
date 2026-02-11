@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/43812676-0773-4af7-8569-713063e1782b" /># Daily Learning
+# Daily Learning
 
 ## Morning Planning
 <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
